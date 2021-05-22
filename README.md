@@ -17,6 +17,6 @@ The dataset is created manually using Arduini Code run on IDE (Dataset Genertor.
 
 Importing Trained Model and Predciting Gestures Live
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/diwan-kadir/Gesture-Recognition/blob/master/outputs/Gesture%20prediction.mp4)
+![Watch the video](https://github.com/diwan-kadir/Gesture-Recognition/blob/master/outputs/Gesture%20prediction.mp4)
 
 
