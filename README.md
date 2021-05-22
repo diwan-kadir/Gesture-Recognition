@@ -13,7 +13,7 @@ The dataset is created manually using Arduini Code run on IDE (Dataset Genertor.
 
 ![GESTURE DATASET FLOWCHART](https://github.com/diwan-kadir/Gesture-Recognition/blob/master/gesture%20dataset.png)
 
-Ipporting Trained Model and Predciting Gestures Live
+Importing Trained Model and Predciting Gestures Live
 
 ![Gesture Recognition](https://github.com/diwan-kadir/Gesture-Recognition/blob/master/gesture%20recognition%20model.png)
 
