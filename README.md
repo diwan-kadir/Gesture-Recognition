@@ -4,6 +4,9 @@ Team :
   Rajeev Bandi,
   Sakshi Dicholkar
 
+
+IMPLEMENTATION Video: https://www.youtube.com/watch?v=vIoCR4eFcnc
+
 Project : Gesture Recognition using Arduino, Tensorflow and JoyStick Controller
 
 About : 
@@ -16,7 +19,5 @@ The dataset is created manually using Arduini Code run on IDE (Dataset Genertor.
 ![GESTURE DATASET FLOWCHART](https://github.com/diwan-kadir/Gesture-Recognition/blob/master/outputs/archi_gesture.PNG)
 
 Importing Trained Model and Predciting Gestures Live
-
-![Watch the video](https://github.com/diwan-kadir/Gesture-Recognition/blob/master/outputs/Gesture%20prediction.mp4)
 
 
