@@ -1,8 +1,8 @@
 # Gesture-Recognition
 Team : 
-  Kadir Diwan,
-  Rajeev Bandi,
-  Sakshi Dicholkar
+  Kadir Diwan(@diwan-kadir),
+  Rajeev Bandi(@RajB07),
+  Sakshi Dicholkar(@sakshi126)
 
 
 IMPLEMENTATION Video: https://www.youtube.com/watch?v=vIoCR4eFcnc
