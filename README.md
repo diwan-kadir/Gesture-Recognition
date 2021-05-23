@@ -7,7 +7,7 @@ Team :
 
 IMPLEMENTATION Video: https://www.youtube.com/watch?v=vIoCR4eFcnc
 
-Project : Gesture Recognition using Arduino, Tensorflow and JoyStick Controller
+Project : Gesture Recognition using Arduino, Tensorflow and JoyStick Controller.
 
 About : 
 The project idea is to implement gesture recogntion with joystick controller.
